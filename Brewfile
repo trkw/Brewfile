@@ -33,10 +33,22 @@ brew gdbm
 brew git
 brew openssl
 brew pcre
+brew readline
+brew tig
 brew tmux
 brew wget
 brew zsh
 
 # App Store applications
 appstore 1Password
+appstore Coda 2
+appstore Cornerstone
+appstore LINE
+appstore Paw
+appstore Pocket
+appstore Reeder
+appstore Things
+appstore Transmit
+appstore Tweetbot
+appstore Twitter
 appstore Xcode
