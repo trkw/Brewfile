@@ -8,14 +8,17 @@ cask alfred
 cask dropbox
 cask evernote
 cask flash
+cask github
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
 cask java
+cask tower
 
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
+cask sublime-text3
 
 ## rcmdnk/file
 tap rcmdnk/file
