@@ -1,7 +1,9 @@
 # Brewfile
 
-Install Homebrew
 Paste that at a Terminal prompt.
+
+
+Install Homebrew
 
 ``` ruby
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
