@@ -43,6 +43,7 @@ cask skype
 cask slack
 cask spectacle
 cask spotify
+cask strongvpn-client
 cask techstoreclub-simple-comic
 cask todoist
 cask tower
