@@ -30,3 +30,15 @@ if [ -f $(brew --prefix)/etc/brew-wrap ];then
   source $(brew --prefix)/etc/brew-wrap
 fi
 ```
+
+## Package installation
+``` bash
+brew file brew install [package name]
+brew file brew cask install [package name]
+```
+
+## Package update
+``` bash
+brew file brew init
+brew file brew update
+```
