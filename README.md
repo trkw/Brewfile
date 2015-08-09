@@ -39,6 +39,5 @@ brew file brew cask install [package name]
 
 ## Package update
 ``` bash
-brew file brew init
 brew file brew update
 ```
