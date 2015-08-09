@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask
 cask adobe-creative-cloud
+cask airmail-amt
 cask alfred
 cask anvil
 cask appcleaner
@@ -16,6 +17,7 @@ cask blocs
 cask brackets
 cask cactus
 cask charles
+cask chocolat
 cask dropbox
 cask evernote
 cask flash
@@ -39,13 +41,17 @@ cask skype
 cask slack
 cask spectacle
 cask spotify
+cask todoist
 cask tower
+cask versions
 
 ## caskroom/versions
 tap caskroom/versions
 cask affinity-designer-beta
+cask airmail-beta
 cask firefox-ja
 cask google-chrome-canary
+cask opera-beta
 cask sublime-text3
 
 ## rcmdnk/file
@@ -75,8 +81,11 @@ appstore 1Password
 appstore Coda 2
 appstore Cornerstone
 appstore Dash
+appstore Keynote
 appstore LINE
 appstore Moom
+appstore Numbers
+appstore Pages
 appstore Paw
 appstore Pocket
 appstore Reeder
