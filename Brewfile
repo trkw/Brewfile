@@ -7,6 +7,7 @@ brew brew-cask
 cask adobe-creative-cloud
 cask airmail-amt
 cask alfred
+cask android-studio
 cask anvil
 cask appcleaner
 cask arduino
@@ -31,6 +32,7 @@ cask hipchat
 cask hocus-focus
 cask insomniax
 cask instacast
+cask integrity
 cask iterm2
 cask java
 cask macaw
@@ -41,8 +43,10 @@ cask skype
 cask slack
 cask spectacle
 cask spotify
+cask techstoreclub-simple-comic
 cask todoist
 cask tower
+cask transmission
 cask versions
 
 ## caskroom/versions
@@ -54,6 +58,10 @@ cask google-chrome-canary
 cask opera-beta
 cask sublime-text3
 
+## peco/peco
+tap peco/peco
+brew peco
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
@@ -63,16 +71,37 @@ tap supermomonga/splhack
 
 # Other Homebrew packages
 brew ack
+brew cmake
+brew ctags
+brew curl
+brew editorconfig
+brew gcc
 brew gdbm
+brew gist
 brew git
+brew git-flow
+brew gmp
+brew hub
+brew isl
+brew jq
 brew libevent
+brew libmpc
 brew mackup
+brew mpfr
+brew mysql
+brew nkf
 brew openssl
 brew pcre
+brew pkg-config
 brew readline
 brew reattach-to-user-namespace
+brew redis
+brew terminal-notifier
 brew tig
 brew tmux
+brew todo-txt
+brew tree
+brew watch
 brew wget
 brew zsh
 
